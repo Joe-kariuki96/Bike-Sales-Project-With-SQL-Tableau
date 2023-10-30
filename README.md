@@ -13,6 +13,7 @@ The main goal is to use Tableau to visually portray these insights and to create
     •	Are there specific months or years that exhibit significant changes in revenue?
 3.	Revenue per Category and Brand:
     •	Which product categories contribute most to overall revenue?
+  	
     •	Are there particular brands that stand out in terms of revenue generation?
 4.	Top 10 Customers:
     •	Who are the top 10 customers in terms of revenue?
