@@ -8,21 +8,20 @@ The main goal is to use Tableau to visually portray these insights and to create
 ## Research Questions:
 1.	Revenue per State:
 •	How does revenue vary across the three states represented in the dataset?
-•	Can we identify any state-specific trends or outliers in revenue?
 2.	Revenue per Month and Year:
-•	What are the monthly and yearly revenue trends in bike sales?
-•	Are there specific months or years that exhibit significant changes in revenue?
+    •	What are the monthly and yearly revenue trends in bike sales?
+    •	Are there specific months or years that exhibit significant changes in revenue?
 3.	Revenue per Category and Brand:
-•	Which product categories contribute most to overall revenue?
-•	Are there particular brands that stand out in terms of revenue generation?
+    •	Which product categories contribute most to overall revenue?
+    •	Are there particular brands that stand out in terms of revenue generation?
 4.	Top 10 Customers:
-•	Who are the top 10 customers in terms of revenue?
-•	What insights can be derived from their purchasing patterns?
+    •	Who are the top 10 customers in terms of revenue?
+    •	What insights can be derived from their purchasing patterns?
 5.	Revenue per Store:
-•	How does revenue vary across different stores?
-•	Are there specific stores that significantly influence overall revenue?
+    •	How does revenue vary across different stores?
+    •	Are there specific stores that significantly influence overall revenue?
 6.	Sales Representative Performance:
-•	Which sales representative has the highest revenue contribution?
-•	Can we identify any patterns or strategies employed by high-performing sales reps?
+   •	Which sales representative has the highest revenue contribution?
+   •	Can we identify any patterns or strategies employed by high-performing sales reps?
 ## Target Audience:
 The intended audience for this analysis includes executives, managers, and decision-makers responsible for steering the strategic direction of the bike sales business. By addressing the outlined research questions, the analysis equips them with actionable insights to optimize revenue, allocate resources effectively, and enhance overall business performance.
