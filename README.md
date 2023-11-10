@@ -26,5 +26,7 @@ The main goal is to use Tableau to visually portray these insights and to create
    •	Can we identify any patterns or strategies employed by high-performing sales reps?
 ## Target Audience:
 The intended audience for this analysis includes executives, managers, and decision-makers responsible for steering the strategic direction of the bike sales business. By addressing the outlined research questions, the analysis equips them with actionable insights to optimize revenue, allocate resources effectively, and enhance overall business performance.
+
+## Tableau Dashboard Link
 To get more insight about the data, use the link below to view the Tableau Dashboard for Bike Sales.
 https://public.tableau.com/app/profile/josephat.kariuki/viz/BikeStores_16983384135310/Dashboard1?publish=yes
